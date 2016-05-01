@@ -1,0 +1,11 @@
+<tool id="id" name="Name" version="Version" hidden="false" tool_type="non" URL_method="get">
+<description>Description</description>
+<configfiles>
+</configfiles>
+<requirements>
+</requirements>
+<command interpreter="interpreter" detect_errors="detect_errors" >cdata</command>
+<outputs>
+</outputs>
+<stdio>
+</stdio>

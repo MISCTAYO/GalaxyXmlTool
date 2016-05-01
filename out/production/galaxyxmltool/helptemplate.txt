@@ -1,0 +1,89 @@
+<help>
+.. class:: infomark
+
+**Authors** helpauthorsnames helpauthorsemails
+
+---------------------------------------------------
+
+.. class:: infomark
+
+**Please cite** helpcitation
+
+---------------------------------------------------
+
+==============
+helptoolname
+==============
+
+-----------
+Description
+-----------
+
+ helpdescription
+
+
+-----------------
+Workflow position
+-----------------
+
+**Upstream tools**
+
+helpupstreamtools
+
+
+**Downstream tools**
+
+helpdownstreamtools
+
+
+-----------
+Input files
+-----------
+
+helpinputfiles
+
+
+----------
+Parameters
+----------
+
+helpinputfilesparameters
+
+
+------------
+Output files
+------------
+
+helpoutputfiles
+
+	
+---------------------------------------------------
+
+---------------
+Working example
+---------------
+
+Input files
+===========
+
+helpinputfilesexample
+
+		
+Parameters
+==========
+
+helpinputfilesexampleparameters
+
+
+Output files
+============
+
+helpoutputfilesexample
+	
+---------------------------------------------------
+
+.. class:: infomark
+
+helpmoreinformations
+</help>
+    
